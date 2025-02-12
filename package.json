@@ -1,0 +1,10 @@
+{
+  "name": "repro",
+  "dependencies": {
+    "vite": "6.1.0",
+    "vite-node": "3.0.5"
+  },
+  "scripts": {
+    "repro": "npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts & npx vite-node run.ts"
+  }
+}
